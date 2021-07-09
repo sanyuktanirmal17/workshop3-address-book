@@ -72,10 +72,6 @@ public class PersonData {
 			return false;
 		if (Zip != other.Zip)
 			return false;
-//		if (startDate == null) {
-//			if (other.startDate != null)
-//				return false;
-//		} else if (!startDate.equals(other.startDate))
 			return false;
 		
 	}

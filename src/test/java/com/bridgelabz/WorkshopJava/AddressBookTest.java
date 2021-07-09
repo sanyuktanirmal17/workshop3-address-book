@@ -1,3 +1,9 @@
+package com.bridgelabz.WorkshopJava;
+
+/**
+ * check equality of for size and contact 
+ */
+
 import org.junit.Test;
 
 import com.bridgelabz.WorkshopJava.PersonData;
